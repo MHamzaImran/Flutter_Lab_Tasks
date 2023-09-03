@@ -69,6 +69,15 @@ Throughout the development of this project, several key learning outcomes were a
 
 ## Screenshots
 
+
+<p align="center">
+  <img src="assets/screenshots/splash.png" width="200" alt="Screenshot 1">
+  <img src="assets/screenshots/login.png" width="200" alt="Screenshot 2">
+  <img src="assets/screenshots/home.png" width="200" alt="Screenshot 3">
+  <img src="assets/screenshots/drawer.png" width="200" alt="Screenshot 4">
+</p>
+
+
 ![Screenshot 1](screenshots/screenshot1.png)
 *Description of the screenshot.*
 
