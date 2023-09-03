@@ -75,6 +75,7 @@ Throughout the development of this project, several key learning outcomes were a
   <img src="assets/screenshots/login.png" width="200" alt="Screenshot 2">
   <img src="assets/screenshots/home.png" width="200" alt="Screenshot 3">
   <img src="assets/screenshots/drawer.png" width="200" alt="Screenshot 4">
+  <img src="assets/screenshots/profile.png" width="200" alt="Screenshot 5">
 </p>
 
 
