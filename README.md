@@ -79,14 +79,6 @@ Throughout the development of this project, several key learning outcomes were a
 </p>
 
 
-![Screenshot 1](screenshots/screenshot1.png)
-*Description of the screenshot.*
-
-![Screenshot 2](screenshots/screenshot2.png)
-*Description of the screenshot.*
-
-<!-- Add more screenshots as needed -->
-
 ## Getting Started
 
 To run this Flutter project locally, follow these steps:
@@ -95,3 +87,21 @@ To run this Flutter project locally, follow these steps:
 
    ```bash
    git clone https://github.com/your/repo.git
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd project-directory
+
+3. Install the required dependencies:
+
+   ```bash
+   flutter pub get
+
+4. Run the app:
+
+   ```bash
+   flutter run
+
+
+    
