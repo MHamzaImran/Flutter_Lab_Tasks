@@ -59,7 +59,7 @@ class _LoginState extends State<Login> {
                       children: [
                         const Center(
                           child: CircleAvatar(
-                              radius: 100,
+                              radius: 150,
                               backgroundImage: AssetImage('assets/logo.jpg')),
                         ),
                         const SizedBox(
@@ -91,7 +91,7 @@ class _LoginState extends State<Login> {
                           },
                         ),
                         const SizedBox(
-                          height: 10,
+                          height: 20,
                         ),
                         TextFormField(
                           controller: passwordController,
@@ -131,6 +131,9 @@ class _LoginState extends State<Login> {
                             return null;
                           },
                         ),
+                        const SizedBox(
+                          height: 20,
+                        ),
                         Row(
                           mainAxisAlignment: MainAxisAlignment.spaceBetween,
                           children: [
@@ -163,6 +166,9 @@ class _LoginState extends State<Login> {
                               ),
                             ),
                           ],
+                        ),
+                        const SizedBox(
+                          height: 20,
                         ),
                         SizedBox(
                           height: 45,
